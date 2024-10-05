@@ -1,0 +1,29 @@
+/* Contact Form CSS */
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  width: 35%;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.form > label {
+  text-align: left;
+}
+
+.form > button {
+  width: 30%;
+  background-color: #79AEA3;
+  color: white;
+}
+
+@media screen and (max-width: 991px) {
+  .form {
+    gap: 0.5rem;
+    width: 100%;
+  }
+  .form > button {
+    width: 100%;
+  }
+}

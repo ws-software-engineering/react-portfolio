@@ -1,5 +1,3 @@
-import React from "react";
-
 const ResumeDownload = () => {
   const onButtonClick = () => {
     fetch("/" + "react_portfolio.pdf", {

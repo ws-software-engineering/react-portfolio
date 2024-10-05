@@ -3,46 +3,46 @@ export default function PortfolioPage() {
     <div className="container pt-4 portfolio-cards-container">
       <h2>Portfolio Page</h2>
       <div className="container portfolio-cards">
-        <div class="card-one">
+        <div className="card-one">
           <center>
             <a
-              href="https://github.com/ws-data-engineering/employee-tracker"
+              href="https://github.com/ws-software-engineering/employee-tracker"
               target="_blank"
             >
               <h1>Employee Tracker</h1>
             </a>
           </center>
         </div>
-        <div class="card-two">
+        <div className="card-two">
           <center>
             <a
-              href="https://weather-dashboard-qf8r.onrender.com"
+              href="https://weather-dashboard-api-im9j.onrender.com/"
               target="_blank"
             >
               <h1>Weather Dashboard</h1>
             </a>
             <a
-              href="https://github.com/ws-data-engineering/weather-dashboard"
+              href="https://github.com/ws-software-engineering/weather-dashboard"
               target="_blank"
             >
               <h3>GitHub</h3>
             </a>
           </center>
         </div>
-        <div class="card-three">
+        <div className="card-three">
           <center>
             <a
-              href="https://github.com/ws-data-engineering/vehicle-builder"
+              href="https://github.com/ws-software-engineering/vehicle-builder"
               target="_blank"
             >
               <h1>Vehicle Builder</h1>
             </a>
           </center>
         </div>
-        <div class="card-four">
+        <div className="card-four">
           <center>
             <a
-              href="https://github.com/ws-data-engineering/readme-generator"
+              href="https://github.com/ws-software-engineering/readme-generator"
               target="_blank"
             >
               <h1>ReadMe Generator</h1>
